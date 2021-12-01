@@ -1,0 +1,11 @@
+[26-Mar-2021 12:46:38 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/neoste70/wallpaper.neostechnology.tk/filmes/includes/config.php on line 9
+[26-Mar-2021 12:46:38 America/Fortaleza] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/neoste70/wallpaper.neostechnology.tk/filmes/includes/config.php on line 14
+[26-Mar-2021 12:46:38 America/Fortaleza] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 10
+[26-Mar-2021 12:46:38 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 11
+[26-Mar-2021 13:01:42 America/Fortaleza] PHP Warning:  is_null() expects exactly 1 parameter, 0 given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 62
+[26-Mar-2021 13:03:22 America/Fortaleza] PHP Warning:  is_null() expects exactly 1 parameter, 0 given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 62
+[26-Mar-2021 13:05:21 America/Fortaleza] PHP Warning:  is_null() expects exactly 1 parameter, 0 given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 62
+[26-Mar-2021 13:09:25 America/Fortaleza] PHP Warning:  is_null() expects exactly 1 parameter, 0 given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 62
+[26-Mar-2021 13:09:25 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/dashboard-menu.php on line 10
+[26-Mar-2021 13:14:11 America/Fortaleza] PHP Warning:  is_null() expects exactly 1 parameter, 0 given in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/login-form.php on line 62
+[26-Mar-2021 13:41:51 America/Fortaleza] PHP Warning:  copy(): Filename cannot be empty in /home1/neoste70/wallpaper.neostechnology.tk/filmes/public/add-video-form.php on line 53
